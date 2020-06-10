@@ -1,3 +1,5 @@
+creds
+resources
 # Local .terraform directories
 **/.terraform/*
 
